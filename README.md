@@ -21,6 +21,7 @@ Como trader, aplico mi conocimiento técnico para desarrollar indicadores y herr
 - **C#** - Desarrollo de aplicaciones de escritorio
 - **JavaScript** - Desarrollo web
 - **HTML/CSS** - Frontend
+- **Pine Script** - Indicadores técnicos para TradingView
 
 #### 🧰 Áreas de especialización
 - Desarrollo de aplicaciones de escritorio
@@ -45,6 +46,7 @@ Como trader, aplico mi conocimiento técnico para desarrollar indicadores y herr
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Pine Script](https://img.shields.io/badge/Pine_Script-5.0-blue?logo=tradingview&logoColor=white)](https://www.tradingview.com/pine-script-docs/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)](https://www.sqlite.org/)
