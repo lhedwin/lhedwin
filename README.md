@@ -62,11 +62,6 @@ Como trader, aplico mi conocimiento técnico para desarrollar indicadores y herr
 [![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=white)](https://render.com/)
 [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)](https://supabase.com/)
 
-### 📈 Estadísticas de GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lhedwin&show_icons=true&theme=react-dark&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lhedwin&theme=react-dark&hide_border=true)
-
 ### 🌟 Proyectos destacados
 
 - **[dolar-monitor](https://github.com/lhedwin/dolar-monitor)** - Aplicación de escritorio para monitorear tasas de cambio (BCV, Binance P2P, Syklo)
