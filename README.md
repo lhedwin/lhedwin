@@ -62,9 +62,10 @@ Como trader, aplico mi conocimiento técnico para desarrollar indicadores y herr
 [![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=white)](https://render.com/)
 [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)](https://supabase.com/)
 
-### 📈 Evolución de commits
+### 📈 Estadísticas de GitHub
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=lhedwin&theme=react-dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lhedwin&show_icons=true&theme=react-dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lhedwin&theme=react-dark&hide_border=true)
 
 ### 🌟 Proyectos destacados
 
@@ -80,5 +81,3 @@ Como trader, aplico mi conocimiento técnico para desarrollar indicadores y herr
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lhedwin-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/lhedwin/)
 
 ---
-
-![Visitor Count](https://profile-counter.glitch.me/lhedwin/count.svg)
